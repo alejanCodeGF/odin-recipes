@@ -1,2 +1,4 @@
 # odin-recipes
-The first project from "The Odin Project", it's a web full of recipes 😎 (5, that's it)
+Web programed in HTML and CSS about recipes.
+What do you need, how do you make them, with photos and description.
+Here I will use: unordered lists, ordered list, photos, links, etc.
