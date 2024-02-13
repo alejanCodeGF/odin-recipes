@@ -1,0 +1,36 @@
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 42px;
+    color: rgb(34, 34, 204);
+}
+
+h2 {
+    font-size: 32px;
+    color: rgba(42, 44, 133, 0.836);
+}
+
+p, .Ingredients>li, .Steps>li {
+    font-size: 20px;
+}
+
+ul a {
+    font-size: 32px;
+    color: black;
+    background-color: lightblue;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+img {
+    height: 450px;
+}
+
+.link_home{
+    font-size: 30px;
+    color: green;
+}
